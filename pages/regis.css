@@ -1,0 +1,45 @@
+.tm-section-header {
+    color: #000000;
+    text-align: center;
+    font-weight: 400;
+    font-size: 2.5rem;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+  }
+  
+  .tm-info {
+    color: #c50000;
+    font-weight: 400;
+    text-align: center;
+    font-size: 1.2rem;
+    margin-top: 30px;
+    margin-bottom: 30px; 
+  }
+  
+  .tm-nama {
+    color: #000000;
+    text-align: center;
+    font-weight: 400;
+    font-size: 1rem;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  
+  .tm-tanggal-lahir {
+    color: #000000;
+    text-align: center;
+    font-weight: 400;
+    font-size: 1rem;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  
+  .tm-daftar {
+    color: #000000;
+    text-align: center;
+    font-weight: 400;
+    font-size: 4.1rem;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }

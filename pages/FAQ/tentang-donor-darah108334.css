@@ -1,0 +1,201 @@
+.tentang-donor-darah108334-container {
+  min-height: 100vh;
+}
+.tentang-donor-darah108334-tentang-donor-darah108334 {
+  width: 1440px;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  max-width: 1440px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.tentang-donor-darah108334-image {
+  top: -50px;
+  left: -83px;
+  width: 480px;
+  height: 1108px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(222, 30, 31, 1);
+}
+.tentang-donor-darah108334-image1 {
+  top: 148px;
+  left: 96px;
+  width: 55px;
+  height: 55px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.tentang-donor-darah108334-text {
+  top: 150px;
+  left: 165px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 42px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tentang-donor-darah108334-svg {
+  top: 312px;
+  left: -1px;
+  width: 573;
+  height: 746;
+  position: absolute;
+}
+.tentang-donor-darah108334-text01 {
+  top: 615px;
+  left: 59px;
+  color: rgba(15, 15, 15, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Euclid Circular B;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tentang-donor-darah108334-text02 {
+  top: 679px;
+  left: 59px;
+  color: rgba(15, 15, 15, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Euclid Circular B;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tentang-donor-darah108334-text03 {
+  top: 33px;
+  left: 636px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 42px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tentang-donor-darah108334-text04 {
+  top: 120px;
+  left: 425px;
+  color: rgba(222, 30, 31, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Euclid Circular B;
+  font-weight: 500px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tentang-donor-darah108334-text05 {
+  top: 170px;
+  left: 425px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Euclid Circular B;
+  font-weight: 500px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tentang-donor-darah108334-text15 {
+  top: 376px;
+  left: 425px;
+  color: rgba(222, 30, 31, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Euclid Circular B;
+  font-weight: 500px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tentang-donor-darah108334-text16 {
+  top: 426px;
+  left: 425px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Euclid Circular B;
+  font-weight: 500px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tentang-donor-darah108334-text28 {
+  top: 664px;
+  left: 425px;
+  color: rgba(222, 30, 31, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Euclid Circular B;
+  font-weight: 500px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tentang-donor-darah108334-text29 {
+  top: 714px;
+  left: 425px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Euclid Circular B;
+  font-weight: 500px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
