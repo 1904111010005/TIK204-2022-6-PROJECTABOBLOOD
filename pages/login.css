@@ -1,0 +1,27 @@
+.tm-login {
+    color: #000000;
+    text-align: center;
+    font-weight: 400;
+    font-size: 2.5rem;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  
+  .tm-login-nama {
+    color: #000000;
+    text-align: center;
+    font-weight: 200;
+    font-size: 1rem;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  
+  .tm-login2 {
+    color: #000000;
+    text-align: center;
+    font-weight: 200;
+    font-size: 1rem;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
