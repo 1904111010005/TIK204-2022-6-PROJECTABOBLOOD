@@ -1,0 +1,12 @@
+body{
+    background-image: url(bar.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-color: #f2f2f2;
+}
+
+.letak{
+    margin-top: 15rem;
+}
