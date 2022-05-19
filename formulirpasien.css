@@ -1,0 +1,232 @@
+* {
+  text-decoration: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  max-width: 100%;
+  overflow: hidden;
+  font-family: "Open Sans", sans-serif;
+}
+
+.image1 {
+  position: absolute;
+  width: 1440px;
+  height: 230px;
+  left: 0px;
+  top: 0px;
+}
+
+section {
+  margin: auto;
+  display: flex;
+  margin-bottom: 50px;
+}
+
+.kolom {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.kolom .deskripsi {
+  position: absolute;
+  width: 455px;
+  height: 98px;
+  left: 550px;
+  top: 50px;
+
+  font-family: "Alata";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 98px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+h2 {
+  position: absolute;
+  width: 118px;
+  height: 51px;
+  left: 57px;
+  top: 250px;
+
+  font-family: "Alata";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 51px;
+  /* identical to box height */
+
+  color: #000000;
+}
+
+h3 {
+  position: absolute;
+  width: 771px;
+  height: 38px;
+  left: 365px;
+  top: 290px;
+
+  font-family: "Alata";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 38px;
+  /* identical to box height */
+  color: #de1e1f;
+  transform: translate(330px, 310px);
+}
+
+h5 {
+  position: absolute;
+  width: 313px;
+  height: 51px;
+  left: 57px;
+  top: 500px;
+
+  font-family: "Alata";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 51px;
+  /* identical to box height */
+  color: #000000;
+}
+
+.btn-daftar {
+  background: #de1e1f;
+  color: #fff;
+  cursor: pointer;
+  border-radius: 20px;
+  margin-top: 20px;
+  padding: 10px 15px 10px 15px;
+}
+
+.btn-daftar:hover {
+  background: #000;
+  text-decoration: none;
+}
+
+h4 {
+  position: absolute;
+  width: 140px;
+  height: 51px;
+  left: 57px;
+  top: 370px;
+
+  font-family: "Alata";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 51px;
+  /* identical to box height */
+  color: #000000;
+}
+
+h6 {
+  position: absolute;
+  width: 259px;
+  height: 51px;
+  left: 57px;
+  top: 430px;
+
+  font-family: "Alata";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 51px;
+  /* identical to box height */
+
+  color: #000000;
+}
+
+h1 {
+  position: absolute;
+  width: 290px;
+  height: 51px;
+  left: 58px;
+  top: 310px;
+
+  font-family: "Alata";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 51px;
+  /* identical to box height */
+  color: #000000;
+}
+
+.link {
+  color: #100f0f;
+  cursor: pointer;
+}
+
+.form-check {
+  font-family: "Alata";
+  font-weight: 500;display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  font-size: 22px;
+  top: 420px;
+  left: 370px;
+}
+
+.form-select {
+  font-family: "Alata";
+  font-weight: 500;
+  display: block;
+  position: relative;
+  padding-left: 20px;
+  padding-right: 18px;
+  margin-bottom: 100px;
+  cursor: pointer;
+  font-size: 22px;
+  top: 500px;
+  left: 220px;
+}
+
+.form-control-nama {
+  display: block;
+  position: relative;
+  padding-left: 20px;
+  padding-right: 340px;
+  margin-bottom: 100px;
+  cursor: pointer;
+  font-size: 22px;
+  top: 250px;
+  left: -60px;
+}
+
+.form-control-hp {
+    display: block;
+    position: relative;
+    padding-left: 20px;
+    padding-right: 340px;
+    margin-bottom: 100px;
+    cursor: pointer;
+    font-size: 22px;
+    top: 310px;
+    left: -692px;
+ }
+
+.form-control-alamat {
+    display: block;
+    position: relative;
+    padding-left: 20px;
+    padding-right: 340px;
+    margin-bottom: 100px;
+    cursor: pointer;
+    font-size: 22px;
+    top: 370px;
+    left: -1325px;
+}
+
+p {
+  margin: 10px 0px 10px 0px;
+  padding: 10px 0px 10px 0px;
+}
