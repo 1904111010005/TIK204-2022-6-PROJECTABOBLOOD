@@ -1,19 +1,179 @@
-
-h1{
-    text-align: center;
-    }
-    
-    table{
-    margin-left: auto;
-    margin-right: auto;
-    background-color: #ffffff;
-    }
-    
-    input[type="konfirmasi"]{
-    background-color: #c50000;
-    }
-
-h2 {
-    text-align: center;
-}
-    
+* {
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  body {
+    max-width: 100%;
+    overflow: hidden;
+    font-family: "Open Sans", sans-serif;
+  }
+  
+  .image1 {
+    position: absolute;
+    width: 1440px;
+    height: 160px;
+    left: 0px;
+    top: 0px;
+  }
+  
+  section {
+    margin: auto;
+    display: flex;
+    margin-bottom: 50px;
+  }
+  
+  .kolom {
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  
+  .kolom .deskripsi {
+    position: absolute;
+    width: 455px;
+    height: 98px;
+    left: 550px;
+    top: 20px;
+  
+    font-family: "Alata";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 98px;
+    /* identical to box height */
+  
+    color: #ffffff;
+  }
+  
+  h2 {
+    position: absolute;
+    width: 118px;
+    height: 51px;
+    left: 120px;
+    top: 180px;
+  
+    font-family: "Alata";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 51px;
+    /* identical to box height */
+  
+    color: #000000;
+  }
+  
+  h3 {
+    position: absolute;
+    width: 150px;
+    height: 38px;
+    left: 250px;
+    top: 200px;
+  
+    font-family: "Alata";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 38px;
+    /* identical to box height */
+    color: #de1e1f;
+    transform: translate(330px, 310px);
+  }
+  
+  .btn-daftar {
+    background: #de1e1f;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 10px 20px 10px 20px;
+  }
+  
+  .btn-daftar:hover {
+    background: #000;
+    text-decoration: none;
+  }
+  
+  h4 {
+    position: absolute;
+    width: 140px;
+    height: 51px;
+    left: 120px;
+    top: 320px;
+  
+    font-family: "Alata";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 51px;
+    /* identical to box height */
+    color: #000000;
+  }
+  
+  h1 {
+    position: absolute;
+    width: 290px;
+    height: 51px;
+    left: 120px;
+    top: 250px;
+  
+    font-family: "Alata";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 51px;
+    /* identical to box height */
+    color: #000000;
+  }
+  
+  
+  .link {
+    color: #100f0f;
+    cursor: pointer;
+  }
+  
+  
+  .form-control-nama {
+    display: block;
+    position: relative;
+    padding-left: 20px;
+    padding-right: 340px;
+    margin-bottom: 100px;
+    cursor: pointer;
+    font-size: 22px;
+    top: 190px;
+    left: 365px;
+    height: 30px;
+  }
+  
+  .form-control-hp {
+      display: block;
+      position: relative;
+      padding-left: 20px;
+      padding-right: 340px;
+      margin-bottom: 100px;
+      cursor: pointer;
+      font-size: 22px;
+      top: 260px;
+      left: -268px;
+      height: 30px;
+   }
+  
+  .form-control-saran {
+      display: block;
+      position: relative;
+      padding-left: 20px;
+      padding-right: 340px;
+      margin-bottom: 100px;
+      cursor: pointer;
+      font-size: 22px;
+      top: 330px;
+      left: -900px;
+      height: 100px;
+  }
+  
+  p {
+    margin: 10px 0px 10px 0px;
+    padding: 10px 0px 10px 0px;
+  }
+  
