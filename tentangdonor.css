@@ -1,0 +1,182 @@
+* {
+  text-decoration: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  max-width: 100%;
+  overflow: hidden;
+  font-family: "Open Sans", sans-serif;
+}
+
+.image1 {
+  position: absolute;
+  width: 400px;
+  height: 625px;
+  display: flex;
+  left: -60px;
+  top: -50px;
+}
+
+.image2 {
+  position: relative;
+  width: 50px;
+  height: 50px;
+  left: 45px;
+  top: 100px;
+}
+
+.image3 {
+  position: absolute;
+  width: 483px;
+  height: 318px;
+  left: -60px;
+  top: 280px;
+}
+
+section {
+  margin: auto;
+  display: flex;
+  margin-bottom: 50px;
+}
+
+.kolom {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.kolom .deskripsi {
+  position: absolute;
+  width: 477px;
+  height: 51px;
+  left: 650px;
+  top: 25px;
+
+  font-family: "Alata";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 51px;
+
+  color: #000000;
+}
+
+h2 {
+  position: absolute;
+  width: 974px;
+  height: 38px;
+  left: 365px;
+  top: 120px;
+
+  font-family: "Alata";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 38px;
+  /* identical to box height */
+
+  color: #de1e1f;
+}
+
+h3 {
+  position: absolute;
+  width: 771px;
+  height: 38px;
+  left: 365px;
+  top: 290px;
+
+  font-family: "Alata";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 38px;
+  /* identical to box height */
+  color: #de1e1f;
+}
+
+h5 {
+  position: absolute;
+  width: 93px;
+  height: 51px;
+  left: 120px;
+  top: 100px;
+
+  font-family: "Alata";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 51px;
+
+  color: #ffffff;
+}
+
+.btn-daftar {
+  background: #de1e1f;
+  color: #fff;
+  cursor: pointer;
+  border-radius: 20px;
+  margin-top: 20px;
+  padding: 10px 15px 10px 15px;
+}
+
+.btn-daftar:hover {
+  background: #000;
+  text-decoration: none;
+}
+
+h4 {
+  position: absolute;
+  width: 991px;
+  height: 160px;
+  left: 365px;
+  top: 150px;
+
+  font-family: "Alata";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 32px;
+
+  color: #000000;
+}
+
+h6 {
+  width: 244px;
+  height: 38px;
+  left: 59px;
+  top: 679px;
+  font-family: "Alata";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 38px;
+  color: #100f0f;
+  transform: translate(0%, 800%);
+}
+
+h1 {
+  position: absolute;
+  width: 988px;
+  height: 256px;
+  left: 365px;
+  top: 340px;
+
+  font-family: "Alata";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 32px;
+
+  color: #000000;
+}
+
+.link {
+  color: #100f0f;
+  cursor: pointer;
+}
+
+p {
+  margin: 10px 0px 10px 0px;
+  padding: 10px 0px 10px 0px;
+}
