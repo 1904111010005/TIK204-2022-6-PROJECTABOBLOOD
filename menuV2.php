@@ -38,12 +38,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="letak">
-                <a href="">
-                    <h5>Profil</h5>
-                </a>
-                <a href="">
-                    <h5>Notifikasi</h5>
-                </a>
+
                 <a href="stokdarah.html">
                     <h5>Informasi</h5>
                 </a>
