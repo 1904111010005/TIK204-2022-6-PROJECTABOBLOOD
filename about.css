@@ -1,3 +1,4 @@
+/* <<<<<<< 1904111010076 */
 * {
   text-decoration: none;
   margin: 0px;
@@ -181,3 +182,188 @@ p {
   margin: 10px 0px 10px 0px;
   padding: 10px 0px 10px 0px;
 }
+
+* {
+  text-decoration: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  max-width: 100%;
+  overflow: hidden;
+  font-family: "Open Sans", sans-serif;
+}
+
+.image1 {
+  position: absolute;
+  width: 400px;
+  height: 625px;
+  display: flex;
+  left: -60px;
+  top: -50px;
+}
+
+.image2 {
+  position: relative;
+  width: 50px;
+  height: 50px;
+  left: 45px;
+  top: 100px;
+}
+
+.image3 {
+  position: absolute;
+  width: 483px;
+  height: 318px;
+  left: -60px;
+  top: 280px;
+}
+
+.image4 {
+  position: absolute;
+  width: 400px;
+  height: 400px;
+  left: 600px;
+  top: 270px;
+}
+
+section {
+  margin: auto;
+  display: flex;
+  margin-bottom: 50px;
+}
+
+.kolom {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.kolom .deskripsi {
+  position: absolute;
+  width: 378px;
+  height: 51px;
+  left: 690px;
+  top: 33px;
+
+  font-family: "Alata";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 51px;
+
+  color: #000000;
+}
+
+h2 {
+  position: absolute;
+  width: 974px;
+  height: 38px;
+  left: 380px;
+  top: 120px;
+
+  font-family: "Alata";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 38px;
+  /* identical to box height */
+
+  color: #de1e1f;
+}
+
+h3 {
+  font-family: "Alata";
+  font-weight: 800;
+  font-size: 18px;
+  margin-bottom: 20px;
+  color: #fff;
+  width: 100%;
+  line-height: 50px;
+  transform: translate(330px, 260px);
+}
+
+h5 {
+  position: absolute;
+  width: 93px;
+  height: 51px;
+  left: 120px;
+  top: 100px;
+
+  font-family: "Alata";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 51px;
+
+  color: #ffffff;
+}
+
+.btn-daftar {
+  background: #de1e1f;
+  color: #fff;
+  cursor: pointer;
+  border-radius: 20px;
+  margin-top: 20px;
+  padding: 10px 15px 10px 15px;
+}
+
+.btn-daftar:hover {
+  background: #000;
+  text-decoration: none;
+}
+
+h4 {
+  position: absolute;
+  width: 965px;
+  height: 160px;
+  left: 380px;
+  top: 170px;
+
+  font-family: "Alata";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 32px;
+
+  color: #000000;
+}
+
+h6 {
+  width: 244px;
+  height: 38px;
+  left: 59px;
+  top: 679px;
+  font-family: "Alata";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 38px;
+  color: #100f0f;
+  transform: translate(0%, 800%);
+}
+
+h1 {
+  width: 244px;
+  height: 38px;
+  left: 59px;
+  top: 679px;
+  font-family: "Alata";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 38px;
+  color: #100f0f;
+  transform: translate(0%, 600%);
+}
+
+.link {
+  color: #100f0f;
+  cursor: pointer;
+}
+
+p {
+  margin: 10px 0px 10px 0px;
+  padding: 10px 0px 10px 0px;
+}
+/* 1904111010024 */
